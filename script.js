@@ -45,8 +45,7 @@ const references = [
   {
     id: "adhanom2023",
     author: "Isayas Berhe Adhanom, Paul MacNeilage, and Eelke Folmer",
-    title:
-      "Eye tracking in virtual reality: a broad review of applications and challenges",
+    title: "Eye tracking in virtual reality: a broad review of applications and challenges",
     year: "2023",
     journal: "Virtual Reality",
     volume: "27",
@@ -55,10 +54,8 @@ const references = [
   },
   {
     id: "asahina2021",
-    author:
-      "Ray Asahina, Takashi Nomoto, Takatoshi Yoshida, and Yoshihiro Watanabe",
-    title:
-      "Realistic 3D swept-volume display with hidden-surface removal using physical materials",
+    author: "Ray Asahina, Takashi Nomoto, Takatoshi Yoshida, and Yoshihiro Watanabe",
+    title: "Realistic 3D swept-volume display with hidden-surface removal using physical materials",
     year: "2021",
     journal: "IEEE Virtual Reality and 3D User Interfaces (VR)",
     pages: "113–121",
@@ -94,13 +91,10 @@ const references = [
   },
   {
     id: "carter2013",
-    author:
-      "Tom Carter, Sue Ann Seah, Benjamin Long, Bruce Drinkwater, and Sriram Subramanian",
-    title:
-      "UltraHaptics: multi-point mid-air haptic feedback for touch surfaces",
+    author: "Tom Carter, Sue Ann Seah, Benjamin Long, Bruce Drinkwater, and Sriram Subramanian",
+    title: "UltraHaptics: multi-point mid-air haptic feedback for touch surfaces",
     year: "2013",
-    booktitle:
-      "Proceedings of the 26th annual ACM symposium on User interface software and technology",
+    booktitle: "Proceedings of the 26th annual ACM symposium on User interface software and technology",
     pages: "505–514",
   },
   {
@@ -117,8 +111,7 @@ const references = [
     author: "Dhairya Dand and Robert Hemsley",
     title: "Obake: interactions on a 2.5 D elastic display",
     year: "2013",
-    booktitle:
-      "Adjunct Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology",
+    booktitle: "Adjunct Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology",
     pages: "109–110",
   },
   {
@@ -126,15 +119,13 @@ const references = [
     author: "Nguyen-Thong Dang",
     title: "A survey and classification of 3D pointing techniques",
     year: "2007",
-    booktitle:
-      "IEEE international conference on research, innovation and vision for the future",
+    booktitle: "IEEE international conference on research, innovation and vision for the future",
     pages: "71–80",
   },
   {
     id: "eitoku2006",
     author: "S. Eitoku, T. Tanikawa, and Y. Suzuki",
-    title:
-      "Display Composed of Water Drops for Filling Space with Materialized Virtual Three-dimensional Objects",
+    title: "Display Composed of Water Drops for Filling Space with Materialized Virtual Three-dimensional Objects",
     year: "2006",
     booktitle: "IEEE Virtual Reality Conference (VR 2006)",
     pages: "159–166",
@@ -142,8 +133,7 @@ const references = [
   },
   {
     id: "feix2016",
-    author:
-      "Thomas Feix, Javier Romero, Heinz-Bodo Schmiedmayer, Aaron M. Dollar, and Danica Kragic",
+    author: "Thomas Feix, Javier Romero, Heinz-Bodo Schmiedmayer, Aaron M. Dollar, and Danica Kragic",
     title: "The GRASP Taxonomy of Human Grasp Types",
     year: "2016",
     journal: "IEEE Transactions on Human-Machine Systems",
@@ -154,32 +144,26 @@ const references = [
   },
   {
     id: "fernandez2024",
-    author:
-      "Unai Javier Fernández, Iosune Sarasate, Iñigo Ezcurdia, Manuel Lopez-Amo, Ivan Fernández, and Asier Marzo",
+    author: "Unai Javier Fernández, Iosune Sarasate, Iñigo Ezcurdia, Manuel Lopez-Amo, Ivan Fernández, and Asier Marzo",
     title: "PointerVol: A Laser Pointer for Swept Volumetric Displays",
     year: "2024",
-    booktitle:
-      "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST ’24)",
+    booktitle: "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST ’24)",
     pages: "1–8",
     doi: "10.1145/3654777.3676432",
   },
   {
     id: "forlines2007",
-    author:
-      "Clifton Forlines, Daniel Wigdor, Chia Shen, and Ravin Balakrishnan",
+    author: "Clifton Forlines, Daniel Wigdor, Chia Shen, and Ravin Balakrishnan",
     title: "Direct-touch vs. mouse input for tabletop displays",
     year: "2007",
-    booktitle:
-      "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’07)",
+    booktitle: "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’07)",
     pages: "647–656",
     doi: "10.1145/1240624.1240726",
   },
   {
     id: "fushimi2019",
-    author:
-      "Tatsuki Fushimi, Asier Marzo, Bruce W Drinkwater, and Thomas L Hill",
-    title:
-      "Acoustophoretic volumetric displays using a fast-moving levitated particle",
+    author: "Tatsuki Fushimi, Asier Marzo, Bruce W Drinkwater, and Thomas L Hill",
+    title: "Acoustophoretic volumetric displays using a fast-moving levitated particle",
     year: "2019",
     journal: "Applied Physics Letters",
     volume: "115",
@@ -196,11 +180,9 @@ const references = [
   {
     id: "grossman2006",
     author: "Tovi Grossman and Ravin Balakrishnan",
-    title:
-      "The design and evaluation of selection techniques for 3D volumetric displays",
+    title: "The design and evaluation of selection techniques for 3D volumetric displays",
     year: "2006",
-    booktitle:
-      "Proceedings of the 19th annual ACM symposium on User interface software and technology",
+    booktitle: "Proceedings of the 19th annual ACM symposium on User interface software and technology",
     pages: "3–12",
   },
   {
@@ -208,14 +190,12 @@ const references = [
     author: "Tovi Grossman, Daniel Wigdor, and Ravin Balakrishnan",
     title: "Multi-finger gestural interaction with 3d volumetric displays",
     year: "2004",
-    booktitle:
-      "Proceedings of the 17th annual ACM symposium on User interface software and technology",
+    booktitle: "Proceedings of the 17th annual ACM symposium on User interface software and technology",
     pages: "61–70",
   },
   {
     id: "hahn2023",
-    author:
-      "Joonku Hahn, Woonchan Moon, Hosung Jeon, Minwoo Jung, Seongju Lee, Gunhee Lee, and Muhan Choi",
+    author: "Joonku Hahn, Woonchan Moon, Hosung Jeon, Minwoo Jung, Seongju Lee, Gunhee Lee, and Muhan Choi",
     title: "Volumetric 3D Display: Features and Classification",
     year: "2023",
     journal: "Current Optics and Photonics",
@@ -226,8 +206,7 @@ const references = [
   {
     id: "hart1988",
     author: "Sandra G. Hart and Lowell E. Staveland",
-    title:
-      "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research",
+    title: "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research",
     year: "1988",
     booktitle: "Advances in Psychology",
     volume: "52",
@@ -236,21 +215,16 @@ const references = [
   },
   {
     id: "hilliges2012",
-    author:
-      "Otmar Hilliges, David Kim, Shahram Izadi, Malte Weiss, and Andrew Wilson",
-    title:
-      "HoloDesk: direct 3d interactions with a situated see-through display",
+    author: "Otmar Hilliges, David Kim, Shahram Izadi, Malte Weiss, and Andrew Wilson",
+    title: "HoloDesk: direct 3d interactions with a situated see-through display",
     year: "2012",
-    booktitle:
-      "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    booktitle: "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
     pages: "2421–2430",
   },
   {
     id: "hirayama2019",
-    author:
-      "Ryuji Hirayama, Diego Martinez Plasencia, Nobuyuki Masuda, and Sriram Subramanian",
-    title:
-      "A volumetric display for visual, tactile and audio presentation using acoustic trapping",
+    author: "Ryuji Hirayama, Diego Martinez Plasencia, Nobuyuki Masuda, and Sriram Subramanian",
+    title: "A volumetric display for visual, tactile and audio presentation using acoustic trapping",
     year: "2019",
     journal: "Nature",
     volume: "575",
@@ -274,10 +248,8 @@ const references = [
   },
   {
     id: "ishii2012",
-    author:
-      "Hiroshi Ishii, Dávid Lakatos, Leonardo Bonanni, and Jean-Baptiste Labrune",
-    title:
-      "Radical atoms: beyond tangible bits, toward transformable materials",
+    author: "Hiroshi Ishii, Dávid Lakatos, Leonardo Bonanni, and Jean-Baptiste Labrune",
+    title: "Radical atoms: beyond tangible bits, toward transformable materials",
     year: "2012",
     journal: "interactions",
     volume: "19",
@@ -293,18 +265,15 @@ const references = [
   },
   {
     id: "jiang2021",
-    author:
-      "Ying Jiang, Congyi Zhang, Hongbo Fu, Alberto Cannavò, Fabrizio Lamberti, Henry Y K Lau, and Wenping Wang",
+    author: "Ying Jiang, Congyi Zhang, Hongbo Fu, Alberto Cannavò, Fabrizio Lamberti, Henry Y K Lau, and Wenping Wang",
     title: "HandPainter -3D Sketching in VR with Hand-based Physical Proxy",
     year: "2021",
-    booktitle:
-      "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)",
+    booktitle: "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)",
     doi: "10.1145/3411764.3445302",
   },
   {
     id: "jones2007",
-    author:
-      "Andrew Jones, Ian McDowall, Hideshi Yamada, Mark Bolas, and Paul Debevec",
+    author: "Andrew Jones, Ian McDowall, Hideshi Yamada, Mark Bolas, and Paul Debevec",
     title: "Rendering for an interactive 360° light field display",
     year: "2007",
     journal: "ACM Transactions on Graphics",
@@ -317,17 +286,14 @@ const references = [
     id: "karnik2011",
     author:
       "Abhijit Karnik, Archie Henderson, Andrew Dean, Howard Pang, Thomas Campbell, Satoshi Sakurai, Guido Herrmann, Shahram Izadi, Yoshifumi Kitamura, and Sriram Subramanian",
-    title:
-      "Vortex: Design and implementation of an interactive volumetric display",
+    title: "Vortex: Design and implementation of an interactive volumetric display",
     year: "2011",
-    booktitle:
-      "CHI’11 Extended Abstracts on Human Factors in Computing Systems",
+    booktitle: "CHI’11 Extended Abstracts on Human Factors in Computing Systems",
     pages: "2017–2022",
   },
   {
     id: "kimura2011",
-    author:
-      "Hidei Kimura, Akira Asano, Issei Fujishiro, Ayaka Nakatani, and Hayato Watanabe",
+    author: "Hidei Kimura, Akira Asano, Issei Fujishiro, Ayaka Nakatani, and Hayato Watanabe",
     title: "True 3D display",
     year: "2011",
     booktitle: "ACM SIGGRAPH 2011 Emerging Technologies",
@@ -344,8 +310,7 @@ const references = [
   {
     id: "kumagai2021",
     author: "Kota Kumagai, Shun Miura, and Yoshio Hayasaki",
-    title:
-      "Colour volumetric display based on holographic-laser-excited graphics using drawing space separation",
+    title: "Colour volumetric display based on holographic-laser-excited graphics using drawing space separation",
     year: "2021",
     journal: "Scientific Reports",
     volume: "11",
@@ -570,10 +535,7 @@ function parseLatex(latexCode) {
       }
     }
     // 수식 블록 (display math)
-    else if (
-      (line.startsWith("\\[") && line.endsWith("\\]")) ||
-      (line.startsWith("$$") && line.endsWith("$$"))
-    ) {
+    else if ((line.startsWith("\\[") && line.endsWith("\\]")) || (line.startsWith("$$") && line.endsWith("$$"))) {
       // \[ ... \] 또는 $$ ... $$ 한 줄
       const mathContent = line
         .replace(/^\\\[|\\\]$/g, "")
@@ -582,20 +544,14 @@ function parseLatex(latexCode) {
       content += `<div class="math-block">\\[${mathContent}\\]</div>`;
     }
     // 여러 줄 수식 블록 시작
-    else if (
-      (line.startsWith("\\[") && !line.endsWith("\\]")) ||
-      (line.startsWith("$$") && !line.endsWith("$$"))
-    ) {
+    else if ((line.startsWith("\\[") && !line.endsWith("\\]")) || (line.startsWith("$$") && !line.endsWith("$$"))) {
       // 여러 줄 블록 수식
       let mathLines = [];
       let endFound = false;
       let j = i;
       while (j < lines.length && !endFound) {
         let l = lines[j].trim();
-        if (
-          (l.endsWith("\\]") && l.length > 2) ||
-          (l.endsWith("$$") && l.length > 2)
-        ) {
+        if ((l.endsWith("\\]") && l.length > 2) || (l.endsWith("$$") && l.length > 2)) {
           endFound = true;
           l = l.replace(/^\\\[|^\$\$|\\\]$|\$\$$/g, "");
           mathLines.push(l);
@@ -643,28 +599,16 @@ function parseLatex(latexCode) {
     else if (inDocument && line.length > 0 && !line.startsWith("%")) {
       if (inAbstract) {
         abstract += line + " ";
-      } else if (
-        !inFigure &&
-        !inTable &&
-        !inEnumerate &&
-        !inItemize &&
-        !inTabular
-      ) {
+      } else if (!inFigure && !inTable && !inEnumerate && !inItemize && !inTabular) {
         let processedLine = line;
 
         // \href 처리
         const hrefRegex = /\\href\{([^}]*)\}\{([^}]*)\}/g;
-        processedLine = processedLine.replace(
-          hrefRegex,
-          '<a href="$1" target="_blank">$2</a>'
-        );
+        processedLine = processedLine.replace(hrefRegex, '<a href="$1" target="_blank">$2</a>');
 
         // \url 처리
         const urlRegex = /\\url\{([^}]*)\}/g;
-        processedLine = processedLine.replace(
-          urlRegex,
-          '<a href="$1" target="_blank">$1</a>'
-        );
+        processedLine = processedLine.replace(urlRegex, '<a href="$1" target="_blank">$1</a>');
 
         // \ref 처리
         const refRegex = /\\ref\{([^}]*)\}/g;
@@ -750,29 +694,17 @@ function parseLatex(latexCode) {
 
   // 초록 내용이 있으면 추가
   if (abstract) {
-    if (
-      content.includes(
-        '<div class="abstract"><div class="abstract-title">Abstract</div></div>'
-      )
-    ) {
+    if (content.includes('<div class="abstract"><div class="abstract-title">Abstract</div></div>')) {
       content = content.replace(
         '<div class="abstract"><div class="abstract-title">Abstract</div></div>',
         `<div class="abstract"><div class="abstract-title">Abstract</div>${abstract}</div>`
       );
     } else if (!content.includes(abstract)) {
       // If abstract content not found in the HTML but exists
-      const titleIndex = content.indexOf(
-        '<div class="abstract"><div class="abstract-title">Abstract</div>'
-      );
+      const titleIndex = content.indexOf('<div class="abstract"><div class="abstract-title">Abstract</div>');
       if (titleIndex > -1) {
-        const insertIndex =
-          titleIndex +
-          '<div class="abstract"><div class="abstract-title">Abstract</div>'
-            .length;
-        content =
-          content.substring(0, insertIndex) +
-          abstract +
-          content.substring(insertIndex);
+        const insertIndex = titleIndex + '<div class="abstract"><div class="abstract-title">Abstract</div>'.length;
+        content = content.substring(0, insertIndex) + abstract + content.substring(insertIndex);
       }
     }
   }
@@ -928,7 +860,7 @@ There is extensive work using pico-projectors in the realm of spatial augmented 
  2.2	Volumetric Displays
 A volumetric display emits light from each point within a volume [3]. In swept volumetric displays, a translucent platform called difuser is synchronously moved through the projection zone while a projector emits the slice of the scene that corresponds to the current position of the difuser. With difuser oscillations above 20Hz, due to persitence of vision, users perceived the discrete 2D projections as a simultaneous 3D volume.
 There are other types of true-3D displays such as plasma displays that induce electric breakdown in mid-air using focused laser [29], non-linear optical media (e.g., two photon-absorption [22] or dual wave-length fuorescent [28]), or tracer particles held and moved with optical [32] or acoustic [8, 17] tweezers. Yet, swept volumetric displays remain as the most widespread available type, with commercial products from Voxon Photonics VX1 [23].
-2.3	Pointing techniques in Volumetric dispalys 
+2.3	    [[[[[[[[[[[[[[[ 문제1 ]]]]]]]]]]]]]]]    techniques in Volumetric dispalys 
 Several pointing or selection techniques have been developed for 3D environments [6] that were later adapted to volumetric displays [12]. The point and ray cursors are the two main categories, being the ray cursor slightly superior. In it, a ray is projected from the pointer and a disambiguation technique is needed when the ray intersects multiple objects. The best results were from the depth ray, where there is a marker along the selection ray that can be moved with the distance from the pointer to the display. The lock ray was another technique in which the marker could be controlled with inputs from the pointer device.
 A conceptual paper on interactions with volumetric displays
 [2] suggests other possibilities that go beyond pointing devices, for example using the fngers of the hand. Some of these techniques were implemented [15] to use the hand in the same way as a pointing device for selection. Another modality was to touch the display boundary (usually the protective case), this was initially emulated using augmented reality [25] and later implemented in a real volumetric display with infrared sensing of the contacts with the transparent dome case [18].
@@ -938,9 +870,6 @@ Those interactions need to be implemented in the application, extra hardware suc
   \\section{POINTERVOL DEVICES}
   We present two PointerVol devices. In one the depth of the point along the intersection line with the display volume is controlled with an analog joystick (Figure 4 ). On the second method, the depth is adjusted with the distance from the pointer to the display (Figure 5 ). They are somehow equivalent to the depth ray and the lock ray techniques which showed good results for volumetric displays [13]. The devices used an Arduino Nano as the microcontroller, and a 9V rechargeable battery as the power source. They had a 1 mW red laser diode driven by a 2N2222 transistor. Their casing and insides are shown in Figure 1. The schematics and source code are attached
 as supplementary material.
-3.1	Joystick-controlled depth
-The laser switches on at the confgured frequency (that matches the oscillation of the display) and with the analog joystick, the phase can be changed to make the laser appear at diferent heights (Figure 2).
-The pointing device saves the oscillation frequency of the display, it can be adjusted by pressing a button to enter adjust mode, and
 
   \\begin{figure}
   \\centering
@@ -948,70 +877,71 @@ The pointing device saves the oscillation frequency of the display, it can be ad
   \\caption{\\label{Figure 1} Hardware implementation of PointerVol devices: A,C) Joystick control. B,D) distance control.}
   \\end{figure}
   
-  then with the analog stick. The user knows that the pointer is synchronized with the display when the point is static and does not drift.
+3.1	Joystick-controlled depth
+The laser switches on at the confgured frequency (that matches the oscillation of the display) and with the analog joystick, the phase can be changed to make the laser appear at diferent heights (Figure 2).
+The pointing device saves the oscillation frequency of the display, it can be adjusted by pressing a button to enter adjust mode, and then with the analog stick. The user knows that the pointer is synchronized with the display when the point is static and does not drift.
 More complex timing patterns can be used for example to create a dashed line with a dot on the pointing position. This is shown in Figure 3.
 
   \\begin{figure}
   \\centering
   \\includegraphics[width=0.25\\linewidth]{figure2.png}
-  \\caption{\\label{Figure 2} Synchronizing the laser to the frequency of oscillation of the device,      [[[[[[[[[[[[[[[ 문제1 ]]]]]]]]]]]]]]]            the laser dot appears.}
+  \\caption{\\label{Figure 2} Synchronizing the laser to the frequency of oscillation of the device, the phase controls at which          [[[[[[[[[[[[[[[ 문제2 ]]]]]]]]]]]]]]]            the laser dot appears.}
   \\end{figure}
-
-We note that the frequency needs to be adjusted only once per display and that by default the 30 Hz, makes the laser only drift 5 mm per minute in a Voxon VX1 using an Arudino Nano as the microcontroller (Timer 1 at 16 MHz resolution).
-
-
-3.2	Distance-controlled depth
-The depth of the dot along the line is determined by the distance between the pointer and the display. That way, it gives the illusion that the dot appears at a fxed distance from the pointer. This pointer has a button to reset the distance, when it is pressed it makes the current distance the one from the centre of the display to the pointer. We used an ultrasonic range sensor (hc-sr04) that provides 150 samples per second when it is one meter away from the surface, and a maximum angle of 15◦.      [[[[[[[[[[[[[[[ 문제2 ]]]]]]]]]]]]]]]           
 
   \\begin{figure}
   \\centering
   \\includegraphics[width=0.25\\linewidth]{figure3.png}
   \\caption{\\label{Figure 3} Line patterns on PointerVol: a solid line, a single point, and a dashed line plus a point.}
   \\end{figure}
-  
-    \\begin{figure}
-    \\centering
-    \\includegraphics[width=0.25\\linewidth]{figure4.png}
-    \\caption{\\label{Figure 4} PointerVol that controls the depth with an analog joystick.}
-    \\end{figure}
-    
-      \\begin{figure}
-      \\centering
-      \\includegraphics[width=0.25\\linewidth]{figure5.png}
-      \\caption{\\label{Figure 5} PointerVol that controls the depth with the distance between the pointer and the display.}
-      \\end{figure}
 
-Vpp instead of 5 Vpp and thus increase the      [[[[[[[[[[[[[[[ 문제3 ]]]]]]]]]]]]]]]            to 25◦. Ultrasound requires that the difuser is directly exposed so the protective dome cannot be used. We also explored a LIDAR sensor, but the sampling rate of compact devices was too low (below 30 samples per second) and unreliable due to the translucency of the difuser.
+We note that the frequency needs to be adjusted only once per display and that by default the 30 Hz, makes the laser only drift 5 mm per minute in a Voxon VX1 using an Arudino Nano as the microcontroller (Timer 1 at 16 MHz resolution).
+
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure4.png}
+  \\caption{\\label{Figure 4} PointerVol that controls the depth with an analog joystick.}
+  \\end{figure}
+
+3.2	Distance-controlled depth
+The depth of the dot along the line is determined by the distance between the pointer and the display. That way, it gives the illusion that the dot appears at a fxed distance from the pointer. This pointer has a button to reset the distance, when it is pressed it makes the current distance the one from the centre of the display to the pointer. 
+
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure5.png}
+  \\caption{\\label{Figure 5} PointerVol that controls the depth with the distance between the pointer and the display.}
+  \\end{figure}
+
+We used an ultrasonic range sensor (hc-sr04) that provides 150 samples per second when it is one meter away from the surface, and a maximum angle of 15◦. We modified the  [[[[[[[[[[[[[[[ 문제3 ]]]]]]]]]]]]]]]            to pulse with 30 Vpp instead of 5 Vpp instead of 5 Vpp and thus increase the angle to 25◦. Ultrasound requires that the difuser is directly exposed so the protective dome cannot be used. We also explored a LIDAR sensor, but the sampling rate of compact devices was too low (below 30 samples per second) and unreliable due to the translucency of the difuser.
 We added distance prediction to the software assuming a sinusoidal oscillation of the difuser on this display (Figure 6). Also the distances read by the sensor were corrected according to the time of flight of sound.
 
-      \\begin{figure}
-      \\centering
-      \\includegraphics[width=0.25\\linewidth]{figure6.png}
-      \\caption{\\label{Figure 6} Difuser position prediction.}
-      \\end{figure}
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure6.png}
+  \\caption{\\label{Figure 6} Difuser position prediction.}
+  \\end{figure}
 
-
-
-  \\section{USER      [[[[[[[[[[[[[[[ 문제4 ]]]]]]]]]]]]]]]           }
+  \\section{USER     [[[[[[[[[[[[[[[ 문제4 ]]]]]]]]]]]]]]]           }
 The frst study checks if a single dot is better than a dashed line + dot for pointing to specifc depths (Depth). Depth perception is an advantage of Volumetric Displays [13] and depth is the main addition of PointerVol over a regular laser. The second study (Pointing) compares the pointing performance of a PointerVol controlled with a joystick or distance. In the third study (Tracing), the accuracy is compared when the user traces along diferent 3D paths. These studies compare the two PointerVol devices in tasks related to pointing and tracing objects usually rendered in volumetric displays. They aim at revealing when joystick-mode or distance-mode should be used.
 The studies were conducted with a total of 18 participants (self-reported gender, 8 female and 10 male), aged 20 to 57 years old (AVG=32.83, SD=10.32). The studies took an average of 45 minutes (Depth 10, Point 15, Trace 15 minutes). The participants were staf from engineering departments of the university, their relatives or friends.
 The user studies have been approved by the ethics, data protection and biosecurity comitee of the university (PI-011/22) and
 conducted according to the pertinent legislation.
 
 4.1 Depth
-4.1.1 Procedure. The user was shown a volumetric scene consisting of 4 fat horizontal slices labelled from 1 to 4 (Figure 7.left). The users were siting on a chair in front of the display at an approximate viewing angle of 30◦ and 30 cm distance, they were allowed to tilt and move the head.
-The users were asked to place the dot between two layers indicated by the conductor (e.g. place the dot between the second and the third layer). Prior to the study, the user was told to place the dot as centred as possible in the slice and report to the conductor when they felt it was properly positioned. The conditions were counterbalanced, pointing with a single dot VS dot+dashed line (Figure 3). Two cameras were placed at the sides of the volumetric display to capture the position of the laser pointer.
 
   \\begin{figure}
   \\centering
   \\includegraphics[width=0.25\\linewidth]{figure7.png}
-  \\caption{\\label{Figure 7} Left) volumetric graphics used for the depth perception study. Right) Trials used for pointing and tracing.}
+  \\caption{\\label{Figure 7} Left) volumetric graphics used for the depth       [[[[[[[[[[[[[[[ 문제5 ]]]]]]]]]]]]]]]        study. Right) Trials used for pointing and tracing.}
   \\end{figure}
+
+4.1.1 Procedure. The user was shown a volumetric scene consisting of 4 fat horizontal slices labelled from 1 to 4 (Figure 7.left). The users were siting on a chair in front of the display at an approximate viewing angle of 30◦ and 30 cm distance, they were allowed to tilt and move the head.
+The users were asked to place the dot between two layers indicated by the conductor (e.g. place the dot between the second and the third layer). Prior to the study, the user was told to place the dot as centred as possible in the slice and report to the conductor when they felt it was properly positioned. The conditions were counterbalanced, pointing with a single dot VS dot+dashed line (Figure 3). Two cameras were placed at the sides of the volumetric display to capture the position of the laser pointer.
 
 Task Completion Time (TCT), and accuracy were measured. The NASA TLX subjective questionnaire was flled in using a 7-point Likert scale, with the questions being: Q1—The mental efort necessary to use this method is high; Q2—The physical efort necessary to use this method is high; Q3—The dynamic of the activity has been very fast; Q4—I have felt successful at doing the activities; Q5—I had to put lots of efort to do the activities; Q6—I felt frustrated while doing the activities. After it, the user was also asked to choose their overall preferred method (dot VS dot + guiding line).
 We selected Completion Time and Accuracy (opposite of error rate) because they were used in previous studies with volumetric displays [12, 13]. We did not employed Fitt’s law given the potential challenges of using it in 3D [34]. NASA TLX was preferred over SUS because it is better suited for simple pointing devices (no interacting modes or confgurations); and our tasks could be mentally or physically demanding.
+
 4.1.2 Results. 
-Task completion time, accuracy and NASA TLX are shown respectively in Figures 8 and 9. Overall 10 out of 18 users preferred the single dot. Accordingly, TCT is lower and positioning accuracy is better with the dot but not signifcantly. The NASA scores do not reveal any major diferences. In Figure 10, the accumulated pointer of a trial is shown. For the rest of the studies, we will use a single dot as the pointer.
+Task completion time, accuracy and NASA TLX are shown respectively in Figures 8 and 9. Overall 10 out of 18 users preferred the single dot.        [[[[[[[[[[[[[[[ 문제6 ]]]]]]]]]]]]]]]        , TCT is lower and positioning accuracy is better with the dot but not signifcantly. The NASA scores do not reveal any major diferences. In Figure 10, the accumulated pointer of a trial is shown. For the rest of the studies, we will use a single dot as the pointer.
 
   \\begin{figure}
   \\centering
@@ -1025,86 +955,91 @@ Task completion time, accuracy and NASA TLX are shown respectively in Figures 8 
   \\caption{\\label{Figure 9} NASA TLX questionnaire for the depth study.}
   \\end{figure}
   
-    \\begin{figure}
-    \\centering
-    \\includegraphics[width=0.25\\linewidth]{figure10.png}
-    \\caption{\\label{Figure 10} Accumulated cursor positions for      [[[[[[[[[[[[[[[ 문제5 ]]]]]]]]]]]]]]]            on a depth study.}
-    \\end{figure}
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure10.png}
+  \\caption{\\label{Figure 10} Accumulated cursor positions for a     [[[[[[[[[[[[[[[ 문제7 ]]]]]]]]]]]]]]]            on a depth study.}
+  \\end{figure}
   
   Some comments mentioned: "I think that the point and line method can be more accurate but I prefer visualization and simplicity", "The point is cleaner. It’s hard for me to perceive depth from a single point of view, but I like to move my head.", "the point and line one, by marking the limits, is easier since it is a depth reference", "point and line feels simpler, but dot is more natural", "It is easier to visualize the point since I focus on which layer the point is located and not on the slope".
   
   4.2	Pointing
 4.2.1	Procedure. A scene with fve diferent shapes (a star, a sphere, a cube, a pyramid and an icosahedron) was displayed (Figure 7.right, last sub image). The user was asked to point at a specifc one as fast an accurate as possible. The conditions were using the depth controlled with the Joystick and with distance. Measurements were TCT and accuracy. The user could test the devices before starting the trials.
-4.2.2	results. Task completion time and accuracy are shown in Figure 11. No signifcant diferences were found although the distance method was slightly better, also 17 out of 18 users preferred the distance method. NASA TLX and free comments are shown together with the next study.
-4.3	Tracing
-4.3.1	procedure. The user was asked to trace      [[[[[[[[[[[[[[[ 문제6 ]]]]]]]]]]]]]]]            a torus, a torus tilted on the Z axis and a pipe (Figure 7.right). The user was asked to start with the dot at the starting point of the pipe or at any position of the torus. After the user felt ready,
 
-      \\begin{figure}
-      \\centering
-      \\includegraphics[width=0.25\\linewidth]{figure11.png}
-      \\caption{\\label{Figure 11} Task completion time and accuracy for the pointing study.}
-      \\end{figure}
-  
-  they were asked to trace the shape avoiding to get out of its boundaries. Measurements were TCT and accuracy. NASA TLX was also reported by the users.
+4.2.2	results. Task completion time and accuracy are shown in Figure 11. No signifcant diferences were found although the distance method was slightly better, also 17 out of 18 users preferred the distance method. NASA TLX and free comments are shown together with the next study.
+
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure11.png}
+  \\caption{\\label{Figure 11} Task completion time and accuracy for the pointing study.}
+  \\end{figure}
+
+4.3	Tracing
+4.3.1	procedure. The user was asked to trace along 3            [[[[[[[[[[[[[[[ 문제8 ]]]]]]]]]]]]]]]            paths: a torus, a torus tilted on the Z axis and a pipe (Figure 7.right). The user was asked to start with the dot at the starting point of the pipe or at any position of the torus. After the user felt ready, they were asked to trace the shape avoiding to get out of its boundaries. Measurements were TCT and accuracy. NASA TLX was also reported by the users.
+
 4.3.2	results. TCT, accuracy and NASA TLX are shown in Figures 12, 13, 14 respectively. 17 out of 18 users preferred the distance method. A trace for a trial on the torus is shown in Figure 15.
+
 In general, the distance method was faster (signifcantly for tilted torus and pipe) but the joystick was more accurate (signifcantly for tilted torus). In the NASA TLX, the joystick was reported as much more mental demanding (Q1), requiring slightly more efort (Q5) and frustrating (Q6). Also, with the distance method people felt the activities more dynamic and successful (Q3 and Q4).
 
-        \\begin{figure}
-        \\centering
-        \\includegraphics[width=0.25\\linewidth]{figure12.png}
-        \\caption{\\label{Figure 12} Task completion time for the tracing task.}
-        \\end{figure}
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure12.png}
+  \\caption{\\label{Figure 12} Task completion time for the tracing task.}
+  \\end{figure}
+
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure13.png}
+  \\caption{\\label{Figure 13} Accuracy on the tracing task: the percentage of captured frames where the projected dot was inside the boundaries of the shape of the two orthogonal cameras.}
+  \\end{figure}
+
+Some comments from the users were: "The distance is more intuitive", "Without a joystick I found it easier mentally", "I prefer distance although it’s hard to keep your arm at the same height", "distance more intuitive but I feel less in control", "When the movement is up and down only it is more comfortable with a joystick, but when moving in three-dimensions the handling of depth with your own physical movement is more intuitive", "Once used to the joystick it can be my favorite method".
   
-  Some comments from the users were: "The distance is more intuitive", "Without a joystick I found it easier mentally", "I prefer distance although it’s hard to keep your arm at the same height", "distance more intuitive but I feel less in control", "When the movement is up and down only it is more comfortable with a joystick, but when moving in three-dimensions the handling of depth with your own physical movement is more intuitive", "Once used to the joystick it can be my favorite method".
-  
-          \\begin{figure}
-          \\centering
-          \\includegraphics[width=0.25\\linewidth]{figure13.png}
-          \\caption{\\label{Figure 13} Accuracy on the tracing task: the percentage of captured frames where the projected dot was inside the boundaries of the shape of the two orthogonal cameras.}
-          \\end{figure}
-  
-            \\begin{figure}
-            \\centering
-            \\includegraphics[width=0.25\\linewidth]{figure14.png}
-            \\caption{\\label{Figure 14} NASA TLX questionnaire for the pointing and tracing user study}
-            \\end{figure}
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure14.png}
+  \\caption{\\label{Figure 14} NASA TLX questionnaire for the pointing and tracing user study}
+  \\end{figure}
     
-              \\begin{figure}
-              \\centering
-              \\includegraphics[width=0.25\\linewidth]{figure15.png}
-              \\caption{\\label{Figure 15} Accumulated pointer positions while tracing a torus.}
-              \\end{figure}
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure15.png}
+  \\caption{\\label{Figure 15} Accumulated pointer positions while tracing a torus.}
+  \\end{figure}
               
-              \\section{DISCUSSION}
-                   [[[[[[[[[[[[[[[ 문제7 ]]]]]]]]]]]]]]]           , the dot was preferred overthe dashed line + dot given that it was simpler and occluded less the rest of the graphics. Controlling the depth was preferred to be done with the distance between the pointer and the display, although the joystick provided more accuracy and could be favoured by power users or for more static pointing.
-              5.1 Other pointer modalities
+  \\section{DISCUSSION}
+                   [[[[[[[[[[[[[[[ 문제9 ]]]]]]]]]]]]]]]           , the dot was preferred overthe dashed line + dot given that it was simpler and occluded less the rest of the graphics. Controlling the depth was preferred to be done with the distance between the pointer and the display, although the joystick provided more accuracy and could be favoured by power users or for more static pointing.
+
+5.1 Other pointer modalities
 During the development of PointerVol, we explored other techniques to enable 3D pointing but that were out of the scope for a controlled user study.
+
 5.1.1 Surface Detection Pointer. Inspired by the light-guns used in games such as Duck Hunt (Nintendo) or Time Crisis (Namco), we combined a light detector with a laser pointer for being able to project automatically a laser on the surfaces of the displayed 3D graphics. The device has an aperture with a lens that focus the incoming light into the light detector, an opamp circuit amplifes the signal for the microcontroller. When light is detected, the laser is fred. A dichroic cube is used to combine the laser and the light detector, to make them point along the same line of view. In the default confguration, the laser appears on each graphic face that it points to, and an analog joystick can be used to adjusted the time ofset and thus project above or below any surface. The analog stick is also used to adjust the sensitivity of the light sensor. The device is shown in Figure 16.
      
-                   \\begin{figure}
-                   \\centering
-                   \\includegraphics[width=0.25\\linewidth]{figure16.png}
-                   \\caption{\\label{Figure 16} A PointerVol that can project on top of the surfaces of graphics rendered in swept volumetric displays. The light sensor detects when there is light in the line of sight,and switches on the laser.}
-                   \\end{figure}
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure16.png}
+  \\caption{\\label{Figure 16} A PointerVol that can project on top of the surfaces of graphics rendered in swept volumetric displays. The light sensor detects when there is light in the line of sight,and switches on the laser.}
+  \\end{figure}
                    
 The method works better when aiming at fat surfaces, such as some GUI components or terrain maps. It has difculties when detecting surfaces composed of multiple small slices and sparse volumetric graphics. In general, the light level had to be adapted for a specifc applications and thus we did not include it in the user studies. Yet, we reckon that with adaptive thresholding or more advanced techniques, it could be an interesting modality for PointerVol.
+
 5.1.2	Multiple pointers. Since PointerVol does not require intercommunication with the display, multiple pointers can be used at the same time on the same display. The exception is to use two devices that use ultrasonic distance measurement since they would interfere with each other. It is also possible to use lasers of different colours.
 
-                 \\begin{figure}
-                 \\centering
-                 \\includegraphics[width=0.25\\linewidth]{figure17.png}
-                 \\caption{\\label{Figure 17} Multiple pointers of diferent colours.}
-                 \\end{figure}                     
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure17.png}
+  \\caption{\\label{Figure 17} Multiple pointers of diferent colours.}
+  \\end{figure}                     
               
-              A single user can use one PointerVol on each hand for complex indications such as rotations, volumes or segments. Multiple users can have a PointerVol for example to swap quickly between the role of presenter and observer. We explored a wearable in which two lasers were attached to the thumb and index fngers (Figure 18), this allowed to perform pinching indications and rotation along 1 axis in a natural way. This wearable was created by using two laser diodes on a joystick-controlled PointerVol, thus the depth of each laser is controlled at the same time, independent control of the pointers would allow to indicate rotations along other axes.
+A single user can use one PointerVol on each hand for complex indications such as rotations, volumes or segments. Multiple users can have a PointerVol for example to swap quickly between the role of presenter and observer. We explored a wearable in which two lasers were attached to the thumb and index fngers (Figure 18), this allowed to perform pinching indications and rotation along 1 axis in a natural way. This wearable was created by using two laser diodes on a joystick-controlled PointerVol, thus the depth of each laser is controlled at the same time, independent control of the pointers would allow to indicate rotations along other axes.
               
-                               \\begin{figure}
-                               \\centering
-                               \\includegraphics[width=0.25\\linewidth]{figure18.png}
-                               \\caption{\\label{Figure 18} A hand with a PointerVol in the index and the thumb.}
-                               \\end{figure}    
+  \\begin{figure}
+  \\centering
+  \\includegraphics[width=0.25\\linewidth]{figure18.png}
+  \\caption{\\label{Figure 18} A hand with a PointerVol in the index and the thumb.}
+  \\end{figure}    
                                
-                   [[[[[[[[[[[[[[[ 문제8 ]]]]]]]]]]]]]]]           Line paterns, 2D and 3D. Diferent patterns along the line that passes through the display volume can be projected by adjusting the signals sent to the laser over time. For example, to make a single point, or a dashed line with a point as employed in the depth user study. The length of the segments can also be adjusted, or two segments with a controlled situation to indicate lengths, animations of the pointers can also be played to convey direction along the line or speed. We also experimented by projecting 2D shapes such as circles and stars that could get extruded along the intersection line. A further option would have been to use picoprojectors to have pointers that are 3D shapes such as spheres, cubes or arrows. However, we think that this is beyond the scope of a laser pointer. For 2D screens a 0D dot is used, accordingly for a 3D volume diferent patterns along a 1D line were studied, nonetheless pointers of higher dimensionality are an interesting future line of research.              
+5.1.3 Line                    [[[[[[[[[[[[[[[ 문제10 ]]]]]]]]]]]]]]]           , 2D and 3D. Diferent patterns along the line that passes through the display volume can be projected by adjusting the signals sent to the laser over time. For example, to make a single point, or a dashed line with a point as employed in the depth user study. The length of the segments can also be adjusted, or two segments with a controlled situation to indicate lengths, animations of the pointers can also be played to convey direction along the line or speed. We also experimented by projecting 2D shapes such as circles and stars that could get extruded along the intersection line. A further option would have been to use picoprojectors to have pointers that are 3D shapes such as spheres, cubes or arrows. However, we think that this is beyond the scope of a laser pointer. For 2D screens a 0D dot is used, accordingly for a 3D volume diferent patterns along a 1D line were studied, nonetheless pointers of higher dimensionality are an interesting future line of research.              
               
 5.2 limitations
 Hand jittering and arm fatigue are disadvantages that PointerVol inherits from traditional laser pointers [24]. Although hand jittering is not as noticeable in our studies given that the distance between the pointer and the display ranges from 30 cm to 2 meters. For the arm fatigue, we could design pointers that can be held backwards (laser at the side of the ffth digit) or with the two hands.
@@ -1113,15 +1048,11 @@ The intensity of the laser is less than in a traditional pointer given that it i
 PointerVol has been evaluated on a swept volumetric displays with an oscillating difuser. This type of volumetric displays is the most common one. Yet, new models seem to be shifting to rotating helical screens. PointerVol can still work on rotating helices with some limitations, it is possible to point and adjust the height, but if the pointer is tilted the height will change. Distance measuring techniques would make it work but the increased angle of refection can create issues.
 Future displays based on tracer particles can work since the particle passes through a specifc 3D position in a periodic pattern, but more adjustment of the timing would be needed since the periodicity changes depending on the displayed trace. Non-linear optical volumes based on dual absorption (of IR and UV for instance) would work if an IR laser (of low power and defocused) was used, since the UV illumination plane scans the volume periodically. Two-photon absorption pointers would be dangerous given the high-power needed to trigger this phenomenon and we do not foresee how to make a PointerVol for them.
 The frst exploratory user study was conducted with a presenter and an observer, but the rest of studies are single-user. In future research, we would like to perform more organic and collaborative studies with multiple users, especially analysing the presenter/observer dynamic. Also, paying more attention to the ergonomics of the pointer given that it is held on diferent ways by the users.
-
               
-              
-    \\section{CONCLUSION}
+\\section{CONCLUSION}
 PointerVol is a modification of a laser pointer for pointing to specific 3D positions on true-3D graphics rendered with a swept volumetric display. Two main techniques allow to adjust the depth of the pointer either with an analog joystick or by changing the distance between the pointer and the display. User studies show that it is functional and can be used for pointing and tracing. We hope that having a universal and simple pointer that works out-of-the-box with true-3D graphics could make presentations on volumetric displays more appealing and user friendly.  
-    
-  
-  
-  
+
+
   \\References{sample}
 
   \\end{document}`;
@@ -1151,9 +1082,7 @@ PointerVol is a modification of a laser pointer for pointing to specific 3D posi
   });
 
   // 컴파일 버튼 클릭 이벤트 리스너
-  document
-    .getElementById("compile-btn")
-    .addEventListener("click", compileLatex);
+  document.getElementById("compile-btn").addEventListener("click", compileLatex);
 
   // 에디터 변경 이벤트 리스너
   editor.on("change", () => {
@@ -1165,9 +1094,7 @@ PointerVol is a modification of a laser pointer for pointing to specific 3D posi
   });
 
   // 미리보기 섹션에 클릭 이벤트 리스너 추가 (인용 링크 및 PDF 링크용)
-  document
-    .getElementById("preview-content")
-    .addEventListener("click", handleCitationClick);
+  document.getElementById("preview-content").addEventListener("click", handleCitationClick);
 };
 
 // LaTeX 컴파일 함수
@@ -1189,10 +1116,7 @@ function compileLatex() {
           addLog(`수식 렌더링 오류: ${err.message}`, "error");
         });
     } else {
-      addLog(
-        "컴파일 완료! (MathJax가 로드되지 않아 수식 렌더링이 불완전할 수 있습니다)",
-        "success"
-      );
+      addLog("컴파일 완료! (MathJax가 로드되지 않아 수식 렌더링이 불완전할 수 있습니다)", "success");
     }
   } catch (error) {
     addLog(`컴파일 오류: ${error.message}`, "error");
